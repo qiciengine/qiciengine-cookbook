@@ -1,0 +1,16 @@
+{
+	"title": "QICI Engine for Beginners",
+	"variables" : {
+	},
+
+	"plugins": [
+	    "anchor-navigation"
+	],
+
+	"pluginsConfig": {
+	},
+
+	"styles": {
+        "website": "styles/website.css"
+    }
+}
