@@ -171,14 +171,14 @@ See the video:
 The Play Buttons let you start and stop your game. The first button is the Play button:  
   ![Figure 1-14](images/play_button.png)  
   **Figure 1-14.**   
-A few things happen when you press Play; First, your game will start, as expected. The button set will also turn blue to indicate the game is in motiion:    
+A few things happen when you press Play; First, your game will start, as expected. The button set will also turn blue to indicate the game is in motion:    
   ![Figure 1-15](images/play_button2.png)  
   **Figure 1-15.**   
 
 Remember again, any changes you make on-the-fly will be lost once you stop the game. It’s a common mistake for QICI Engine beginners and regulars alike to run the game and make a pile of changes – which all disappear when the game stops!   
 
 The next button is **Pause**:  
-  ![Figure 1-16](images/play_pause.png)  
+  ![Figure 1-16](images/pause_button.png)  
   **Figure 1-16.**   
 This pauses your game and lets you make modifications to the game. Jusk like in play mode those modifications will be lost once you stop the game. Regard editing game objects during play and pause as a cheat and balancing system that allows you to experiment on your game without the danger of permanently breaking it.  
 
